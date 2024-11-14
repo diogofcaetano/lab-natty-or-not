@@ -20,6 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 Transformação Digital no setor bancário
+
 📒 Descrição
 Este e-book de 8 páginas explora os desafios da transformação digital no setor bancário.
 
