@@ -19,33 +19,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Transformação Digital no setor bancário
+📒 Descrição
+Este e-book de 8 páginas explora os desafios da transformação digital no setor bancário.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Gamma para criar a arte visual do e-book;
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+🧐 Processo de Criação
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias.
+A ferramenta "Gamma" foi responsável por gerar todo o conteúdo de forma estrutural e ilustrativa.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+🚀 Resultados
+O e-book apresenta uma jornada rumo ao futuro dos bancos, conteúdo envolvente e visualmente rico, demonstrando as tendências e estratégias para se utilizar as novas tecnologias em pról da melhor experência para o cliente.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+LINK PARA O E-BOOK AQUI
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+💭 Reflexão
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
